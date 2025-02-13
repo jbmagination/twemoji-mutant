@@ -8,14 +8,6 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 
 ## Usage
 
-### Install via NPM
-
-Run the following inside of your already-initialized project:
-
-```bash
-npm install @twemoji/api
-```
-
 ### CDN Support
 
 Default CDN support is provided via [jsDelivr](https://www.jsdelivr.com/).
@@ -23,19 +15,15 @@ Default CDN support is provided via [jsDelivr](https://www.jsdelivr.com/).
 Use the following in the `<head>` tag of your HTML document(s):
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
 ```
 
 This guarantees that you will always use the latest version of the library.
 
 If, instead, you'd like to include the latest version explicitly, you can add the following tag:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@15.1.0/dist/twemoji.min.js" integrity="sha384-D6GSzpW7fMH86ilu73eB95ipkfeXcMPoOGVst/L04yqSSe+RTUY0jXcuEIZk0wrT" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@15.1.0/dist/twemoji.min.js" integrity="sha384-HFalj0ywN/34WtXq6qFuqTsBbkwwU4/2E5dcZaRNtCs/GAYl0u1e34Na2VQumtmy" crossorigin="anonymous"></script>
 ```
-
-### Download
-
-If instead you want to download a specific version, please look at the `gh-pages` branch, where you will find the built assets for both our latest and older versions.
 
 ## API
 
