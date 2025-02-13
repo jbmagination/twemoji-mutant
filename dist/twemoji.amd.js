@@ -25,7 +25,7 @@ define(function () {
       /////////////////////////
 
         // default assets url, by default will be jsDelivr CDN
-        base: 'https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@15.1.0/assets/',
+        base: 'https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@15.1.0m2/assets/',
 
         // default assets file extensions, by default '.png'
         ext: '.png',
