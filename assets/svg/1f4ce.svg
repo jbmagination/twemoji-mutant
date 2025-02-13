@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#99AAB5" d="M35.354 25.254c.217-2.391-.513-4.558-2.057-6.102L17.033 2.89c-.391-.391-1.024-.391-1.414 0-.391.391-.391 1.024 0 1.414l16.264 16.263c1.116 1.117 1.642 2.717 1.479 4.506-.159 1.748-.957 3.456-2.188 4.686-1.23 1.23-2.938 2.027-4.685 2.187-1.781.161-3.39-.362-4.506-1.479L3.598 12.082c-.98-.98-1.059-2.204-.953-3.058.15-1.196.755-2.401 1.66-3.307 1.7-1.7 4.616-2.453 6.364-.707l14.85 14.849c1.119 1.12.026 2.803-.708 3.536-.733.735-2.417 1.826-3.535.707L9.962 12.789c-.391-.391-1.024-.39-1.414 0-.391.391-.391 1.023 0 1.414l11.313 11.314c1.859 1.858 4.608 1.05 6.363-.707 1.758-1.757 2.565-4.507.708-6.364L12.083 3.597c-2.62-2.62-6.812-1.673-9.192.706C1.677 5.517.864 7.147.661 8.775c-.229 1.833.312 3.509 1.523 4.721l18.384 18.385c1.365 1.365 3.218 2.094 5.281 2.094.27 0 .544-.013.82-.037 2.206-.201 4.362-1.209 5.918-2.765 1.558-1.556 2.565-3.713 2.767-5.919z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2024.06</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="paperclip" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M22,8c0,-4.418 -3.582,-8 -8,-8c0,0 0,0 0,0c-4.418,0 -8,3.582 -8,8l0,14.5c0,2.52 1.001,4.936 2.782,6.718c1.782,1.781 4.198,2.782 6.718,2.782c0,0 0,0 0,0c5.247,0 9.5,-4.253 9.5,-9.5c0,-4.617 0,-9.75 0,-12.5c0,-0.53 -0.211,-1.039 -0.586,-1.414c-0.375,-0.375 -0.884,-0.586 -1.414,-0.586c-0.551,0 -1,0 -1,0l0,0Z"/>
+        </g>
+        <g id="emoji">
+            <path d="M22,11l0,11.5c0,1.724 -0.685,3.377 -1.904,4.596c-1.219,1.219 -2.872,1.904 -4.596,1.904c0,0 0,0 0,0c-3.59,0 -6.5,-2.91 -6.5,-6.5l0,-14.5c0,-1.326 0.527,-2.598 1.464,-3.536c0.938,-0.937 2.21,-1.464 3.536,-1.464c0,0 0,0 0,0c2.761,0 5,2.239 5,5l0,11.5c0,1.933 -1.567,3.5 -3.5,3.5c-1.933,0 -3.5,-1.567 -3.5,-3.5c0,-3.542 0,-8.5 0,-8.5" style="fill:none;stroke:#a7a7a7;stroke-width:2px;"/>
+        </g>
+    </g>
+</svg>

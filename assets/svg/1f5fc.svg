@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#BE1931" d="M16.103 26h3v10h-3z"/><path fill="#DD2E44" d="M20.719 19.459l-6.233.002c-.029.104-2.745 9.524-12.025 16.539h5.825c2.453-1.656 5.72-2.678 9.316-2.678 3.596 0 6.864 1.022 9.317 2.678h5.827c-9.245-6.998-11.998-16.437-12.027-16.541zm-3.116 10.863c-2.151 0-4.202.329-6.093.906 1.28-1.659 2.303-3.265 3.119-4.717h5.947c.816 1.453 1.839 3.058 3.119 4.717-1.891-.578-3.941-.906-6.092-.906z"/><path fill="#DD2E44" d="M14.539 16.038c-.225 1.239-.487 2.437-.785 3.5h7.755c-.299-1.063-.56-2.261-.785-3.5h-6.185z"/><path fill="#CDD6DD" d="M23.42 19.586l-.875-.642c-.045-.033-.101-.051-.158-.051H12.84c-.057 0-.113.018-.158.051l-.875.642c-.069.051-.107.132-.102.215 0 0 .204 3.441.265 3.552.073.133.508.48.588.48h10.111c.08 0 .514-.346.588-.48.062-.112.265-3.552.265-3.552.006-.083-.032-.164-.102-.215zm-3.221-6.881h-5.136c-.148 1.085-.322 2.22-.524 3.333h6.184c-.202-1.113-.376-2.248-.524-3.333z"/><path fill="#DD2E44" d="M19.774 9.205h-4.286c-.108 1.002-.249 2.212-.425 3.5h5.136c-.176-1.288-.316-2.498-.425-3.5z"/><path fill="#CDD6DD" d="M19.657 8.089c-.025.004-4.021.002-4.051-.003-.034.334-.073.704-.118 1.119h4.286l-.117-1.116z"/><path fill="#AAB8C2" d="M19.657 8.089c-.059-.571-.135-1.281-.135-1.281h-3.781s-.076.709-.135 1.278c.03.005 4.026.007 4.051.003z"/><path fill="#E1E8ED" d="M15.175 5.901v1.318c0 .276.233.5.521.5h3.888c.287 0 .521-.224.521-.5V5.901h-4.93z"/><path fill="#DD2E44" d="M19.583 4.083h-1.099L18.279.325c0-.097-.082-.175-.182-.175h-.848c-.101 0-.182.078-.182.175l-.205 3.758h-1.166c-.287 0-.521.224-.521.5v1.318h4.929V4.583c0-.276-.233-.5-.521-.5z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2024.06</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="tokyo_tower" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <path d="M13,7l2,0l0,-5l2,0l0,5l2,0l0,2l-0.857,0l0.571,8l2.286,0l0,3l-1.934,0c0.274,1.136 0.747,2.219 1.4,3.199l4.534,6.801l-2,0c0,0 -1.169,-1.169 -2.243,-2.243c-1.125,-1.125 -2.651,-1.757 -4.242,-1.757c-0.34,0 -0.69,0 -1.03,0c-1.591,0 -3.117,0.632 -4.242,1.757l-2.243,2.243l-2,0c0,0 2.758,-4.137 4.534,-6.801c0.653,-0.98 1.126,-2.063 1.4,-3.199l-1.934,0l0,-3l2.286,0l0.571,-8l-0.857,0l0,-2Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    </g>
+    <g id="emoji">
+        <rect x="15" y="2" width="2" height="6" style="fill:#e02a33;"/>
+        <path d="M18.571,15l0.241,3.364c0.123,1.728 0.693,3.394 1.654,4.835l4.534,6.801l-2,0c0,0 -1.169,-1.169 -2.243,-2.243c-1.125,-1.125 -2.651,-1.757 -4.242,-1.757c-0.34,0 -0.69,0 -1.03,0c-1.591,0 -3.117,0.632 -4.242,1.757l-2.243,2.243l-2,0c0,0 2.758,-4.137 4.534,-6.801c0.961,-1.441 1.531,-3.107 1.654,-4.835l0.241,-3.364l0.571,-1l4,0l0.571,1Z" style="fill:#e02a33;"/>
+        <path d="M18.429,13l-0.429,1l-4,0l-0.429,-1l0.143,-2l0.286,-1l4,0l0.286,1l0.143,2Z" style="fill:#e02a33;"/>
+        <path d="M18.571,15l-5.142,0l0.142,-2l4.858,0l0.142,2Z" style="fill:#fff;"/>
+        <path d="M13.929,8l4.142,0l0.215,3l-4.572,0l0.215,-3Z" style="fill:#fff;"/>
+        <rect x="11" y="17" width="10" height="3" style="fill:#fff;"/>
+        <rect x="13" y="7" width="6" height="2" style="fill:#b5232a;"/>
+    </g>
+</svg>

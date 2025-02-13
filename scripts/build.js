@@ -47,7 +47,7 @@ function createTwemoji() {
         /////////////////////////
 
           // default assets url, by default will be jsDelivr CDN
-          base: 'https://cdn.jsdelivr.net/gh/jdecked/twemoji@$VERSION/assets/',
+          base: 'https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@$VERSION/assets/',
 
           // default assets file extensions, by default '.png'
           ext: '.png',

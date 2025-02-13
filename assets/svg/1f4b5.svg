@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#5C913B" d="M2 11c-2 0-2 2-2 2v21s0 2 2 2h32c2 0 2-2 2-2V13s0-2-2-2H2z"/><path fill="#A7D28B" d="M2 6C0 6 0 8 0 8v20s0 2 2 2h32c2 0 2-2 2-2V8s0-2-2-2H2z"/><circle fill="#77B255" cx="25" cy="18" r="6.5"/><path fill="#5C913B" d="M33 28.5H3c-.827 0-1.5-.673-1.5-1.5V9c0-.827.673-1.5 1.5-1.5h30c.827 0 1.5.673 1.5 1.5v18c0 .827-.673 1.5-1.5 1.5zM3 8.5c-.275 0-.5.224-.5.5v18c0 .275.225.5.5.5h30c.275 0 .5-.225.5-.5V9c0-.276-.225-.5-.5-.5H3z"/><path fill="#FFE8B6" d="M14 6h8v24.062h-8z"/><path fill="#FFAC33" d="M14 30h8v6h-8z"/><path fill="#5C913B" d="M11.81 20.023c0-2.979-5.493-2.785-5.493-4.584 0-.871.833-1.296 1.799-1.296 1.625 0 1.914 1.044 2.65 1.044.521 0 .772-.328.772-.696 0-.856-1.296-1.502-2.539-1.726v-.825c0-.515-.417-.932-.932-.932s-.932.418-.932.932v.853c-1.354.31-2.521 1.25-2.521 2.781 0 2.862 5.493 2.746 5.493 4.758 0 .695-.754 1.391-1.992 1.391-1.857 0-2.476-1.257-3.229-1.257-.368 0-.696.309-.696.775 0 .741 1.24 1.631 2.947 1.881l-.001.004v.934c0 .514.418.932.933.932.514-.001.931-.419.931-.932v-.934c0-.01-.005-.019-.006-.028 1.535-.287 2.816-1.286 2.816-3.075z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2024.06</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="green_money" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <rect x="2" y="7" width="28" height="18" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    </g>
+    <g id="Layer2">
+        <path d="M29,21l-26,0l-1,1l0,3l28,0l0,-3l-1,-1Z" style="fill:#60ae33;"/>
+        <rect x="2" y="7" width="28" height="15" style="fill:#80c95b;"/>
+        <g>
+            <path d="M8.5,9.5c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2.5,0c-0.398,0 -0.779,0.158 -1.061,0.439c-0.281,0.282 -0.439,0.663 -0.439,1.061c0,0.828 0.672,1.5 1.5,1.5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5l0,0Z" style="fill:#5da436;"/>
+            <path d="M8.5,19.5c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2.5,0c-0.398,0 -0.779,0.158 -1.061,0.439c-0.281,0.282 -0.439,0.663 -0.439,1.061c0,0.828 0.672,1.5 1.5,1.5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5l0,0Z" style="fill:#5da436;"/>
+            <path d="M29,9.5c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2.5,0c-0.398,0 -0.779,0.158 -1.061,0.439c-0.281,0.282 -0.439,0.663 -0.439,1.061c0,0.828 0.672,1.5 1.5,1.5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5l0,0Z" style="fill:#5da436;"/>
+            <path d="M29,19.5c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2.5,0c-0.398,0 -0.779,0.158 -1.061,0.439c-0.281,0.282 -0.439,0.663 -0.439,1.061c0,0.828 0.672,1.5 1.5,1.5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5l0,0Z" style="fill:#5da436;"/>
+            <path d="M21,14c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.322 0,0.678 0,1c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.322 0,-0.678 0,-1Z" style="fill:#5da436;"/>
+            <path d="M24,14c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.322 0,0.678 0,1c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.322 0,-0.678 0,-1Z" style="fill:#5da436;"/>
+        </g>
+        <rect x="8" y="11" width="8" height="7" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="8" y="11" width="8" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M16,14l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M16,16l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M15,10.335l0,7.665l-1,0l0,-4.5l-1.771,4.25l-0.458,0l-1.771,-4.25l0,4.5l-1,0l0,-7.665l0.706,-0.141l2.294,5.506l2.294,-5.506l0.706,0.141Z" style="fill:#fff;"/>
+        </g>
+        <path d="M27,20l-22,0l0,-11l22,0l0,11Zm-21,-10l0,9l20,0l0,-9l-20,0Z" style="fill:#5da436;"/>
+        <path d="M20,22l-1,-1l-6,0l-1,1l0,3l8,0l0,-3Z" style="fill:#d9d9d9;"/>
+        <rect x="12" y="7" width="8" height="15" style="fill:#fff;"/>
+    </g>
+</svg>

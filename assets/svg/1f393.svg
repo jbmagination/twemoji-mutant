@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M24 14H12s-5 6-5 10 11 11 11 11 11-7 11-11-5-10-5-10z"/><path fill="#292F33" d="M19.64 1.28c-.901-.704-2.377-.704-3.278 0L1.639 12.776c-.901.704-.901 1.856 0 2.56l14.722 11.495c.902.704 2.377.704 3.278 0l14.722-11.495c.902-.704.902-1.856 0-2.56L19.64 1.28z"/><path fill="#394146" d="M19.64 1.28c-.901-.704-2.377-.704-3.278 0L1.639 12.776c-.901.704-.901 1.856 0 2.56l14.722 11.495c.901.704 2.377.704 3.278 0l14.723-11.495c.901-.704.901-1.856 0-2.56L19.64 1.28z"/><path fill="#FCAB40" d="M8 25s-2 2-2 3v6s0 2 2 2 2-2 2-2v-6c0-1-2-3-2-3z"/><circle fill="#FDD888" cx="8" cy="26" r="3"/><path fill="#FCAB40" d="M8.001 27c-.552 0-1-.447-1-1v-3.958c-.042-.634.187-2.036 1.317-2.884l9.022-7.91c.416-.365 1.048-.323 1.411.093.364.415.322 1.047-.093 1.411l-9.08 7.958C8.974 21.166 9 21.982 9 21.99L9.002 26c0 .553-.448 1-1.001 1z"/><circle fill="#31373D" cx="18" cy="13" r="3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2024.06</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<path id="graduation_cap" d="M0,0l0,32l32,0l0,-32l-32,0Z" style="fill:none;"/><g id="outline"><path d="M8,16l-6,-3l14,-7l14,7l-6,3l0,5c0,1.656 -3.585,3 -8,3c-1.891,0 -3.63,-0.247 -5,-0.659l0,2.659l-4,0l0,-3l1,-1l0,-6Z" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><path d="M8,18.236l16,0l0,2.764c0,1.656 -3.585,3 -8,3c-4.415,0 -8,-1.344 -8,-3l0,-2.764Z" style="fill:#343434;"/><rect x="8" y="12" width="16" height="13" style="fill:none;"/><clipPath id="_clip1"><rect x="8" y="12" width="16" height="13"/></clipPath><g clip-path="url(#_clip1)"><path d="M2,13l14,-7l14,7l-14,7l-14,-7Z" style="fill:none;stroke:#2c2c2c;stroke-width:4px;"/></g><path d="M2,13l14,-7l14,7l-14,7l-14,-7Z" style="fill:#4b4b4b;"/><path d="M16,13l-7,4l0,7" style="fill:none;stroke:#b38d00;stroke-width:2px;stroke-linecap:round;"/><path d="M9,21l-2,2l0,3l4,0l0,-3l-2,-2Z" style="fill:#b38d00;"/></g></svg>

@@ -1,1 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#E5A157" d="M2 11c-2 0-2 2-2 2v21s0 2 2 2h32c2 0 2-2 2-2V13s0-2-2-2H2z"/><path fill="#FFD983" d="M2 6C0 6 0 8 0 8v20s0 2 2 2h32c2 0 2-2 2-2V8s0-2-2-2H2z"/><circle fill="#EDB980" cx="25" cy="18" r="6.5"/><path fill="#E5A157" d="M33 28.5H3c-.827 0-1.5-.673-1.5-1.5V9c0-.827.673-1.5 1.5-1.5h30c.827 0 1.5.673 1.5 1.5v18c0 .827-.673 1.5-1.5 1.5zM3 8.5c-.275 0-.5.224-.5.5v18c0 .275.225.5.5.5h30c.275 0 .5-.225.5-.5V9c0-.276-.225-.5-.5-.5H3z"/><path fill="#FFE8B6" d="M14 6h8v24.062h-8z"/><path fill="#FFAC33" d="M14 30h8v6h-8z"/><path fill="#E5A157" d="M7.238 18.415H4.864c-.398 0-.709-.19-.709-.57 0-.383.312-.573.709-.573h1.664l-2.772-4.28c-.173-.259-.26-.449-.26-.691 0-.33.33-.573.607-.573.278 0 .554.122.797.485L8 16.874l3.102-4.662c.243-.364.52-.485.797-.485.276 0 .605.243.605.573 0 .243-.086.432-.259.691l-2.772 4.28h1.664c.399 0 .711.191.711.573 0 .381-.312.57-.711.57H8.764v1.229h2.373c.399 0 .711.192.711.573 0 .381-.312.571-.711.571H8.764v2.668c0 .502-.312.815-.763.815s-.762-.313-.762-.815v-2.668H4.864c-.398 0-.709-.19-.709-.571 0-.381.312-.573.709-.573h2.375v-1.228z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2024.06</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="yellow_money" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <rect x="2" y="7" width="28" height="18" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    </g>
+    <g id="emoji">
+        <path d="M29,21l-26,0l-1,1l0,3l28,0l0,-3l-1,-1Z" style="fill:#beb735;"/>
+        <rect x="2" y="7" width="28" height="15" style="fill:#dfd970;"/>
+        <g>
+            <path d="M24,12c0,-0.552 -0.448,-1 -1,-1c-0.871,0 -2.129,0 -3,0c-0.552,0 -1,0.448 -1,1c0,0.322 0,0.678 0,1c0,0.552 0.448,1 1,1c0.871,0 2.129,0 3,0c0.552,0 1,-0.448 1,-1c0,-0.322 0,-0.678 0,-1Z" style="fill:#b7b02b;"/>
+            <path d="M24,16c0,-0.552 -0.448,-1 -1,-1c-0.871,0 -2.129,0 -3,0c-0.552,0 -1,0.448 -1,1c0,0.322 0,0.678 0,1c0,0.552 0.448,1 1,1c0.871,0 2.129,0 3,0c0.552,0 1,-0.448 1,-1c0,-0.322 0,-0.678 0,-1Z" style="fill:#b7b02b;"/>
+        </g>
+        <path d="M25,10c0,0 0.771,-0.771 1.207,-1.207c0.188,-0.188 0.442,-0.293 0.707,-0.293c0.586,0 1.586,0 1.586,0l0,1.586c0,0.265 -0.105,0.519 -0.293,0.707c-0.436,0.436 -1.207,1.207 -1.207,1.207" style="fill:none;stroke:#b2ab1d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+        <path d="M7,10c0,0 -0.771,-0.771 -1.207,-1.207c-0.188,-0.188 -0.442,-0.293 -0.707,-0.293c-0.586,0 -1.586,0 -1.586,0l0,1.586c0,0.265 0.105,0.519 0.293,0.707c0.436,0.436 1.207,1.207 1.207,1.207" style="fill:none;stroke:#b2ab1d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+        <path d="M25,19c0,0 0.771,0.771 1.207,1.207c0.188,0.188 0.442,0.293 0.707,0.293c0.586,0 1.586,0 1.586,0l0,-1.586c0,-0.265 -0.105,-0.519 -0.293,-0.707c-0.436,-0.436 -1.207,-1.207 -1.207,-1.207" style="fill:none;stroke:#b2ab1d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+        <path d="M7,19c0,0 -0.771,0.771 -1.207,1.207c-0.188,0.188 -0.442,0.293 -0.707,0.293c-0.586,0 -1.586,0 -1.586,0l0,-1.586c0,-0.265 0.105,-0.519 0.293,-0.707c0.436,-0.436 1.207,-1.207 1.207,-1.207" style="fill:none;stroke:#b2ab1d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+        <rect x="7" y="11" width="8" height="7" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="7" y="11" width="8" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M15,14l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M15,16l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M14,10.335l0,7.665l-1,0l0,-4.5l-1.771,4.25l-0.458,0l-1.771,-4.25l0,4.5l-1,0l0,-7.665l0.706,-0.141l2.294,5.506l2.294,-5.506l0.706,0.141Z" style="fill:#fff;"/>
+        </g>
+        <path d="M20,22l-1,-1l-6,0l-1,1l0,3l8,0l0,-3Z" style="fill:#d9d9d9;"/>
+        <rect x="12" y="7" width="8" height="15" style="fill:#fff;"/>
+    </g>
+</svg>
