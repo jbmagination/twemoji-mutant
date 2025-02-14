@@ -439,7 +439,7 @@ var twemoji = (function (
         // with its image counter part
         ret = '<img '.concat(
           'class="', options.className, '" ',
-          'draggable="false" ',
+          'draggable="false" loading="lazy"',
           // needs to preserve user original intent
           // when variants should be copied and pasted too
           'alt="',

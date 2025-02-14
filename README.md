@@ -22,7 +22,7 @@ This guarantees that you will always use the latest version of the library.
 
 If, instead, you'd like to include the latest version explicitly, you can add the following tag:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@15.1.0m2/dist/twemoji.min.js" integrity="sha384-a0kjrsLPMdcX2qvMcca25yfy0Hib04XIyDpuMaVpqUpzZ5lmXsC4uVFXYKgtyeVF" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/jbmagination/twemoji-mutant@15.1.0m2/dist/twemoji.min.js" integrity="sha384-XEW27obBOE6RdIsopOXvAyXQrsSuiyn9Xm1nXKHfZeRia9eZteAjpD19a3xP9sPh" crossorigin="anonymous"></script>
 ```
 
 ## API
